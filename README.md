@@ -8,10 +8,10 @@ A light weight and simple Javascript implementation of maps
 Include the simplejsmap.js file into your script. The variable simplejsmap would then be available. 
 
 <pre>
-<script src="//path/to/simplejsmap.js" type=”text/javascript”></script>
-<script type=”text/javascript”>
+&lt;script src="//path/to/simplejsmap.js" type=”text/javascript”&gt;&lt;/script&gt;
+&lt;script type=”text/javascript”&gt;
 // simplejsmap now available
-</script>
+&lt;/script&gt;
 </pre>
 
 I am a big fan of pure Javascript first before framework, thus simplejsmap is not dependent on any Javascript framework; not even jQuery :p
