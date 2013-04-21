@@ -35,6 +35,7 @@ Adds stuff that needs to be kept. The stuff has a value and is associated with a
 
 key and value can be of any Javascript type.
 
+
 <strong>update(key, value)</strong>
 <pre>var map = simplejsmap.createMap();
 map.update("key1", "updated value");
